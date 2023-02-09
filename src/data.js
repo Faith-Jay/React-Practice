@@ -10,7 +10,7 @@ export default [
       name: 'Terra Kulture',
       description: 'A cultural center located in Victoria Island, Lagos, Nigeria. It is dedicated to promoting and preserving Nigeria\'s cultural heritage through art exhibitions, music concerts, theater performances, and educational programs.',
       location: '1376 Tiamiyu Savage St, Victoria Island, Lagos, Nigeria',
-      imageURL: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Frefinedng.com%2Fterra-kulture%2F&psig=AOvVaw1HUAnRl5GAsNBMOiZZD2WN&ust=1676049125383000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCzmNj3iP0CFQAAAAAdAAAAABAE',
+      imageURL: 'https://i0.wp.com/refinedng.com/wp-content/uploads/2020/08/vew-5.jpg?resize=1170%2C694&ssl=1',
       mapURL: 'https://www.google.com/maps/place/Terra+Kulture/@6.4251323,3.4246414,17z/data=!3m1!4b1!4m6!3m5!1s0x103bf5312334a98f:0x3c77a3b287836483!8m2!3d6.4251323!4d3.4268301!16s%2Fg%2F1pp2vf1s3?hl=en-GB'
     },
     {
